@@ -1,0 +1,85 @@
+@media(width > 1440px){
+    header{
+        width: 1280px;
+    }
+    .feat{
+        margin-left: 843px;
+    }
+    .prv{
+        width: 166px;
+        height: 49px;
+    }
+    .meore{
+        display: flex;
+        flex-direction: row;
+        gap: 40px
+        ;
+    }
+    .pirveli{
+        display: flex;
+        gap: 40px
+        ;
+    }
+    .img1{
+        width: 640px;
+        height: 474px;
+    }
+    .ord{
+        order: 2;
+    }
+    .ordd{
+        margin-top: 30px;
+    }
+    .ll{
+        width: 542px;
+        height: 409px;
+    }
+    .All{
+        text-align: left;
+        width: 400px;
+    }
+    .raxdeba{
+        text-align: left;
+    }
+    .stay{
+        font-size: 30px;
+    }
+    .op{
+        text-align: left;
+    }
+    .see{
+        margin-left: -380px;
+    }
+    .mwuane{
+        margin-left: 0px ;
+    }
+    .kaci{
+        margin-left: 0S;
+    }
+    .ratoo{
+        display: flex;
+        gap:400px;
+    }
+    .kaikai{
+        margin-top: 100px;
+        width: 400px;
+    }
+    .submit2{
+        width: 200px;
+    }
+    .early{
+        font-size: 32px;
+        margin-top: 100px;
+    }
+    .only{
+        text-align: left;
+
+        width: 333px;
+        margin-left: 1px;
+    }
+    footer{
+        display: flex;
+        gap: 100px;
+    }
+ 
+}
